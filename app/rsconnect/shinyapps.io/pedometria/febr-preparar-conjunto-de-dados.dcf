@@ -1,0 +1,10 @@
+name: febr-preparar-conjunto-de-dados
+title: FEBR | Preparar Conjunto de Dados
+username:
+account: pedometria
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3302145
+bundleId: 3905887
+url: https://pedometria.shinyapps.io/febr-preparar-conjunto-de-dados/
+when: 1606330052.21194
